@@ -1,4 +1,4 @@
-const BUILD = "98dcdd2356ee";
+const BUILD = "fbd2f24c88b0";
 
 // Offline copy of the reference. Every page and picture is cached on its own, keyed by a content hash listed in sw-manifest.json, so an update
 // downloads only what changed.
